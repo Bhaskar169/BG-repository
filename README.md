@@ -1,2 +1,4 @@
 # BG-repository
-This ids my first  repository
+This is my first Git Rrepository
+<br>
+Author - Bhaskar Gupta
